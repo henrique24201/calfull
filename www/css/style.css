@@ -1,0 +1,85 @@
+*  */
+.display{
+   margin-top: 20px;
+   height: 80px;
+   font-size: 50px;
+}
+
+.container {
+    background-color: rgb(191, 203, 28);
+    width: 400px;
+    height: 500px;
+}
+ 
+.container h1 {
+    text-align: center;
+    color: rgb(98, 0, 255);
+}
+ 
+.container label{
+    text-align: center;
+  display: block;
+  margin: 10px 10%;
+}
+ 
+.container button {
+       width: 300px;
+        display: block;
+        margin: 10px 10%;
+        background: rgba(17, 16, 16, 0.703);
+        color: rgb(243, 86, 46);
+        font-size: 20px;
+    }
+    .coluna{
+        text-align: center;
+    }
+    button{
+        width: 1px;
+        height: 50px;
+        text-align: center;
+ 
+    }   
+    #ce{
+        margin: 5px;
+        height: 40px;
+        margin-left: 208px;
+       width: 50px; 
+    }
+    #botao{
+        width: 50px;
+    }
+    #igual{
+        background-color: rgb(128, 0, 49);
+        width: 50px;
+ 
+    }
+    #aa{
+        background-color: rgb(128, 0, 49);
+        width: 50px;
+    }
+    #a1{
+        background-color: rgb(128, 0, 49);
+        width: 50px;
+    }
+    #X{
+        background-color: rgb(128, 0, 49);
+        width: 50px;
+ 
+    }
+    #a{
+        background-color: rgb(128, 0, 49);
+        width: 50px;
+    }
+    .container-a{
+        width: 300px;
+        background-color: aqua;
+  }
+  .linha1{
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      padding: 5px;
+  }
+  .input{
+        width: 100px;
+        border-radius: 10px;
+  }
